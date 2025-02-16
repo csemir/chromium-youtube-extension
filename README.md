@@ -1,0 +1,1 @@
+When faced with the problem of video jamming on YouTube using Zapret, I saw that such a problem does not occur when the video is a widget on another site, using this I made it so that when you click the button, the video goes to a separate tab on an almost empty page.
