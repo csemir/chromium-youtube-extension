@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "YouTube Video Widget",
+    "version": "1.0",
+    "description": "Moves the current YouTube video to a new page.",
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "background": {
+        "service_worker": "background.js"
+    }
+}
